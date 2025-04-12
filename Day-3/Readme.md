@@ -1,3 +1,3 @@
-Day 3: Testing Tools and Resume Editing
+Day 3: Testing Tools and Resume Development
 
-Explored software testing tools such as BrowserStack and Trello. Continued editing the resume.
+Explored different software testing and project management tools such as BrowserStack, which is used for cross-browser testing, and Trello, used for task management and bug tracking.Continued editing and improving the resume content and formatting.
