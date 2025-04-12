@@ -1,4 +1,3 @@
-Day 5: Tester Roles and Manual Test Cases
+Day 5: Software Tester Roles and Manual Testing
 
-Learned about the role of software testers and how to run test cases manually.
-
+Learned about the day-to-day tasks performed by software testers, including writing and executing test cases, reporting bugs, and communicating with the development team. Studied the format of a test case and practiced creating and running test cases manually for a sample application.
